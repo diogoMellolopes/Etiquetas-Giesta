@@ -2,7 +2,7 @@
 
 Sistema para geração, gerenciamento e impressão de etiquetas laboratoriais utilizando a impressora Zebra.
 
-[![Demonstração](tela_menu.png)](https://youtu.be/dW6kju7lWhU)
+[![Demonstração](assets/tela_menu.png)](https://youtu.be/dW6kju7lWhU)
 
 ---
 
@@ -47,28 +47,28 @@ Projeto desenvolvido integralmente por mim, incluindo análise de requisitos, ar
 
 ### Menu de navegação
 
-![Menu de Navegação](menu_navegacao.png)
+![Menu de Navegação](assets/menu_navegacao.png)
 
 Menu que contem os botões que permitem o usuário alterar a tela atual. Também conta com o botão que permite colocar o sistema em tela cheia, ou sair.
 
 
 ### Início
 
-[![Tela de Ínicio](tela_de_inicio.png)](https://www.youtube.com/watch?v=dW6kju7lWhU)
+[![Tela de Ínicio](assets/tela_de_inicio.png)](https://www.youtube.com/watch?v=dW6kju7lWhU)
 
 Tela com as estatísticas básicas, tela que é vista quando abre o programa, nela é possível consultar o número de etiquetas cadastradas, o número total de etiquetas impressas. Bem como o histórico do dia de etiquetas impressas.
 
 
 ### Etiquetas Manutenção
 
-[![Tela de Manutenção das Etiquetas](manutencao_etiquetas.png)](https://www.youtube.com/watch?v=dW6kju7lWhU&t=15s)
+[![Tela de Manutenção das Etiquetas](assets/manutencao_etiquetas.png)](https://www.youtube.com/watch?v=dW6kju7lWhU&t=15s)
 
 Uma das 2 telas principais do sistema. Dentro dela que é feito o CRUD das etiquetas cadastradas. Nela o usuário consegue ADICIONAR, EDITAR, CLONAR, REMOVER ou VISUALIZAR. Também é permitido a importação de outras etiquetas vindas de outros sistemas, bem como a sua exportação. Além disso esta tela permite a impressão de etiquetas singulares.
 
 
 ### Etiquetas Relatório
 
-[![Tela de Impressão de Relatório](etiquetas_relatorio.png)](https://www.youtube.com/watch?v=dW6kju7lWhU&t=192s)
+[![Tela de Impressão de Relatório](assets/etiquetas_relatorio.png)](https://www.youtube.com/watch?v=dW6kju7lWhU&t=192s)
 
 A última tela do sistema. Nessa tela é onde o usuário vai passar a maior parte do tempo. Ela permite que o usuário importe um relatório específico gerado pelo sistema de pedidos (Já usado dentro da empresa) para gerar as etiquetas que devem ser imprimidas.
 
@@ -80,7 +80,7 @@ Essas impressões vão diretamente para o google sheets via chamado da API do go
 
 ### À parte do sistema
 
-[![Etiquetas e Controle de Lote](controle_lote.png)](https://www.youtube.com/watch?v=dW6kju7lWhU&t=319s)
+[![Etiquetas e Controle de Lote](assets/controle_lote.png)](https://www.youtube.com/watch?v=dW6kju7lWhU&t=319s)
 Como mencionado antes, todas as etiquetas impressas são enviadas diretamente para o Sheets, fazendo o controle de lote. No final do vídeo mostro uma etiqueta impressa como forma de ilustrar a formatação e como a impressão funciona dentro do sistema.
 
 ---

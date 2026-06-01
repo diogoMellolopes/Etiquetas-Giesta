@@ -21,12 +21,17 @@ Levando em conta este cenário decidi criar um sistema de impressão de etiqueta
 
 ## Funcionalidades
 
-- Cadastro de etiquetas
-- Geração automática de etiquetas
+- CRUD completo de etiquetas laboratoriais
+- Clonagem de etiquetas existentes
 - Controle de lotes
-- Integração com planilha do Google Sheets
-- Fila de impressão
-- Histórico de registros
+- Integração com Google Sheets
+- Importação de relatórios operacionais
+- Geração automática de filas de impressão
+- Impressão individual ou por pedido
+- Histórico de impressões
+- Histórico de ações dos usuários
+- Exportação de dados
+- Integração com impressoras Zebra via ZPL
 
 ## Tecnologias
 
@@ -34,6 +39,7 @@ Levando em conta este cenário decidi criar um sistema de impressão de etiqueta
 - PyQT5
 - Google Sheets
 - Zebra ZPL
+- SQLite
 
 ---
  

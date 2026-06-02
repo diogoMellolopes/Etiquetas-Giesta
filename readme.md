@@ -1,6 +1,7 @@
 # Sistema de Etiquetas - Giesta
 
 Sistema para geração, gerenciamento e impressão de etiquetas laboratoriais utilizando a impressora Zebra.
+Clique em qualquer foto para ser redirecionado para um vídeo de demonstração do sistema.
 
 [![Demonstração](assets/tela_menu.png)](https://youtu.be/dW6kju7lWhU)
 
